@@ -1,0 +1,2 @@
+Inventory Management System Presentation Notes
+Developed using Waterfall Model.
